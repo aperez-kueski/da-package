@@ -6,8 +6,7 @@ class ContainerText extends StatelessWidget {
     return Container(
       child: Column(
         children: [
-          Text('Bienvenido'),
-          Text('Staging only feature')
+          Text('Bienvenido')
         ],
       ),
     );
